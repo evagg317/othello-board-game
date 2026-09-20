@@ -26,7 +26,7 @@ To run the game on your local machine:
    javac *.java
 
 2. **Run:**
-   ```
+```
   javac Main.java
   java Main
-  ```
+```
